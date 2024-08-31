@@ -1,1 +1,1 @@
-Will update soon
+Limited memory in hardware creates the need to manage the processes that use those resources and store them as pages.  Developed 3 functions implementing First In First Out, Least Frequently Used, and Least Recently Used page replacement algorithms. Measured page faults for each method to compare the efficiency of each method and successfully recreated virtual memory management that Operating Systems use.
